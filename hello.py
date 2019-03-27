@@ -1,5 +1,5 @@
 //for command line git test
-//Local repository modification
+//github modification
 
 ("hello world")
 print("Tell your world")
